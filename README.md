@@ -4,3 +4,5 @@
 02- Convert Fahrenheit to Celsius and vice versa
 
 03- Reverse of a number
+
+04-  Two numbers are multiples or not
