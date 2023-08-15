@@ -9,4 +9,6 @@
 
 05- Dice roller
 
-06 - BMI Calculator (https://quera.org/problemset/3404)
+06 - BMI Calculator
+
+07 - Two Sum with Target K
