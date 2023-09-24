@@ -18,3 +18,5 @@
 09 - Find the First Missing Positive Integer
 
 10 - Job Scheduler
+
+11 - Singleton
