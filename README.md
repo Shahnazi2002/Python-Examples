@@ -1,13 +1,13 @@
 # Examples
-01- Inches to Centimeters Converter
+01 - Inches to Centimeters Converter
 
-02- Convert Fahrenheit to Celsius and Vice Versa
+02 - Convert Fahrenheit to Celsius and Vice Versa
 
-03- Reverse of a Number
+03 - Reverse of a Number
 
 04-  Two Numbers Are Multiples or Not
 
-05- Dice Roller
+05 - Dice Roller
 
 06 - BMI Calculator
 
