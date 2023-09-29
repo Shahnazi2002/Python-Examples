@@ -20,3 +20,5 @@
 10 - Job Scheduler
 
 11 - Singleton
+
+12 - Rand7 using Rand5
