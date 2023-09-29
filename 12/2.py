@@ -4,7 +4,7 @@ def rand5():
     return randint(1, 5)
 
 def rand7():
-    nums = rand5()+rand5()+rand5()+rand5()+rand5()+rand5()+rand5()
+    nums = rand5()+rand5()+rand5()+rand5()+rand5()
     return (nums%7)+1
 
 
