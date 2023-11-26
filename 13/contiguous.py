@@ -13,18 +13,16 @@ if k in numbers:
 else:
     flag = False
     for i in range(len(numbers)):
-        result.append(numbers[i])
-        sum = numbers[i]
+        result = [numbers[i]]
+        numbers_sum = numbers[i]
         for j in numbers[i+1:]:
             result.append(j)
-            sum += j
-            if sum > k:
+            numbers_sum += j
+            if numbers_sum > k:
                 break
-            elif sum == k:
+            elif numbers_sum == k:
                 flag = True
                 break
         if flag:
             break
-        else:
-            result = []
 print(result)
