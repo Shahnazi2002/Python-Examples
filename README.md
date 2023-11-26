@@ -22,3 +22,5 @@
 11 - Singleton
 
 12 - Rand7 using Rand5
+
+13 - Contiguous Sum Finder
