@@ -24,3 +24,5 @@
 12 - Rand7 using Rand5
 
 13 - Contiguous Sum Finder
+
+14 - First Recurring Character
