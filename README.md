@@ -26,3 +26,5 @@
 13 - Contiguous Sum Finder
 
 14 - First Recurring Character
+
+15 - Shift Check
