@@ -28,3 +28,5 @@
 14 - First Recurring Character
 
 15 - Shift Check
+
+16 - Fractions of Non-zero Digits
